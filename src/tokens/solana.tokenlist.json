@@ -67795,6 +67795,17 @@
       "extensions": {
         "twitter": "https://twitter.com/beeman_nl"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F8jzEHiKCTure7oCQZBfzsB48guwk6REh7dSLbXamBvz",
+      "symbol": "QBL",
+      "name": "CubaLibre Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/theNetworkChuck/crypto/main/logo.pnghttps://raw.githubusercontent.com/QubaLibre/CyrptoCubaLibre/main/cuba-libre-cocktail-can-be-used-as-icon-logo-vector-5024289.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
